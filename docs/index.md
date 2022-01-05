@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+Title: Aids To Quit Smoking
 
-You can use the [editor on GitHub](https://github.com/freenatgroup/RVA_01/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Word Count: 545
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Summary: As a fact, there are quite a number of ways available to help you quit smoking. Each method has a different effect on everybody. While one method works for one person, it may not work on another.
 
-### Markdown
+Here are a few popular methods to help you:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Nicotine Replacement Therapy (NRT)
 
-```markdown
-Syntax highlighted code block
+Nicotine is a very addictive drug and for a person who has had developed a dependence to it, it really is very difficult for one to withdraw this very familiar drug from his system. To somehow con...
 
-# Header 1
-## Header 2
-### Header 3
+Keywords: Intuitive Web Marketing, coupon codes, Walking-canes.net promo code, Hemp Sisters web code
 
-- Bulleted
-- List
+Article Body: As a fact, there are quite a number of ways available to help you quit smoking. Each method has a different effect on everybody. While one method works for one person, it may not work on another.
 
-1. Numbered
-2. List
+Here are a few popular methods to help you:
 
-**Bold** and _Italic_ and `Code` text
+Nicotine Replacement Therapy (NRT)
 
-[Link](url) and ![Image](src)
-```
+Nicotine is a very addictive drug and for a person who has had developed a dependence to it, it really is very difficult for one to withdraw this very familiar drug from his system. To somehow control the physical withdrawal symptoms, there is a need for a steady dose of nicotine for the body. NRT includes lozenges, patches, gums and inhalers that take the form of a cigarette.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+False Cigarettes
 
-### Jekyll Themes
+Your body may be anxious on the fact of not being able to hold on to a cigarette anymore when you started to quit smoking. This "therapy" substitutes the action or the physical sensation of having to hold onto a cigarette without having to take in all the chemicals involved in smoking.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/freenatgroup/RVA_01/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Eye Openers
 
-### Support or Contact
+These may involve events that could cause a smoker to decide to be a non-smoker. For some people a certain form of shock will open their eyes on the odds of smoking and would cause them to finally quit smoking. These eye openers could be the information he may have gained about some smoking related illness such as cancer or it may be the loss of a close friend or a family member. Either way it allows the smoker to think of his own mortality and fragility and be conscious about his lifestyle. He may then decide to live a healthier life. But these eye openers could work for a while. There is a possibility that the fears he once had on smoking would eventually subside and the once non-smoker would once again feel comfortable with smoking.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Zyban (or Bupropion)
+
+This is a prescribed antidepressant drug that helps the brain fight those nicotine-craving chemicals in the body. There may be also side effects to the body so it is important that one should consult a general physician before taking in the drug.
+
+Acupuncture
+
+This is an ancient Chinese form of medication which involves inserting thin needles into various yet specific acupuncture points of the body. This kind of quit smoking program should result to reduced urges and controlled levels of withdrawal symptoms.
+
+Meditation
+
+This involves deep breathing exercises and guided imagery to calm the senses and promote a sense of inner serenity and well-being. One form of meditation would involve a repetition of a chant or mantra while another would just involve emptying one's thoughts. This method is useful as it could help you relax and calm yourself especially when one is experiencing certain withdrawal symptoms.
+
+Hypnotherapy
+
+One not only has to convince his conscious mind to quit smoking. He/she also has to work with the subconscious, which is also believed to be the stronger part of the mind. This method of using suggestions can be learned or self-taught. One could use relaxation tapes or techniques to help calm your mind and free it from any worries.
+
+Though there may be numerous methods available, the most important asset one could have is the will power to quit and stay quit.
